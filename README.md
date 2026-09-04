@@ -29,6 +29,6 @@ I specialize in digital system design using **Verilog HDL**, simulation, and har
 
 ### 📬 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) *(Update with your link)*
+- 💼 **LinkedIn:** www.linkedin.com/in/pranavganeshs
 - 📧 **Email:** pranavganeshsurendran@gmail.com
 - 📍 **Location:** Thanjavur, Tamil Nadu, India
